@@ -1,0 +1,21 @@
+.pinky{
+    background-color: #e9acc6;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#uncool {
+    color: #1010e7;
+    font-size: 36px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#nucool {
+    background-color: #9bd6a0;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
